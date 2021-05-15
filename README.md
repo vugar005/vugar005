@@ -15,5 +15,5 @@
  [Angular Custom Environments Without Changing the Local Code or Repo](https://medium.com/geekculture/angular-custom-environments-without-changing-the-local-code-or-repo-effa69457edb)  
 
  How to reach me:  
- :email: vugar_abdullayev@outlook.com  
-:postbox: https://www.linkedin.com/in/vugar-abdullayev-13451469/  
+ :email: email: vugar_abdullayev@outlook.com  
+:postbox: linkedin: https://www.linkedin.com/in/vugar-abdullayev-13451469/  
