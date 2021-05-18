@@ -3,7 +3,7 @@
 ✨ Twitter: https://twitter.com/vugar005  
 ☁️ Blog: https://vugar-005.medium.com  
 
-⚡  Checkout my libaries for Angular  
+⚡  My some libaries for Angular  
  * [ngx-awesome-uploader](https://www.npmjs.com/package/ngx-awesome-uploader): Angular Library for uploading files with nice features.  
  * [ngx-router-animations](https://www.npmjs.com/package/ngx-router-animations): Nice router animations for Angular  
  
