@@ -1,5 +1,4 @@
-### Hi there 👋
-✨ I am Front End Angular developer  
+✨ Front End Angular developer  
 ✨ Website: http://vugar005.github.io  
 ✨ Twitter: https://twitter.com/vugar005  
 ☁️ Blog: https://vugar-005.medium.com  
