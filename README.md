@@ -1,3 +1,6 @@
+![personal-website-animated](https://user-images.githubusercontent.com/28726265/125519981-578f533c-d863-4cc2-8be4-ae883002221f.gif)
+
+
 ✨ Front End Angular developer  
 ✨ Website: http://vugar005.github.io  
 ✨ Twitter: https://twitter.com/vugar005  
@@ -16,3 +19,4 @@
  How to reach me:  
  :email: email: vugar_abdullayev@outlook.com  
 :postbox: linkedin: https://www.linkedin.com/in/vugar-abdullayev-13451469/  
+
