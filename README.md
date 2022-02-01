@@ -1,5 +1,3 @@
-![personal-website-animated](https://user-images.githubusercontent.com/28726265/125519981-578f533c-d863-4cc2-8be4-ae883002221f.gif)
-
 
 ✨ Front End Angular developer  
 ✨ Website: http://vugar005.github.io  
