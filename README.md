@@ -1,6 +1,6 @@
 
 🏝️ Front End Angular developer  
-🗺️ Website: https://vugar.app 
+🗺️ Website: https://vugar.app   
 ✨ Twitter: https://twitter.com/vugar005  
 ☁️ Blog: https://vugar-005.medium.com  
 
